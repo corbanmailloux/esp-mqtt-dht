@@ -1,4 +1,4 @@
-# MQTT-Connected DHT Temperature and Humidity Sensors Using ESP8622 Modules
+# MQTT-Connected DHT Temperature and Humidity Sensors Using ESP8266 Modules
 This project gives a simple way to deploy temperature and humidity sensors around your house using cheap components and the MQTT protocol. I use it with [Home Assistant](https://home-assistant.io/), an amazing, extensible, open-source home automation system, but this project could be used standalone or with any platform.
 
 The sensor publishes to 2 MQTT topics:
